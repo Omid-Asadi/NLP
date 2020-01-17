@@ -1,2 +1,3 @@
 # NLP
-Applying a SVM approach on a sentiment analysis problem using Word2Vec and TF-IDF
+In this dataset I tried to have comparision on two approaches with two distinct input(Word2Vec, TF-IDF)
+Have an enjoyable time with python :))
